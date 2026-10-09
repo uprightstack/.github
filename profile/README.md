@@ -6,7 +6,7 @@ We're a CRM automation agency for local service businesses in the US, UK and Aus
 
 ## Open source
 
-- **Site Leak Score** (coming soon): a free Chrome extension that scores a service business website for lead leaks. It runs in your browser and sends nothing anywhere.
+- **[Site Leak Score](https://chromewebstore.google.com/detail/site-leak-score-by-uprigh/dlmckldjbdjofmodmokojnchnaimnkcc)**: a free Chrome extension that scores a service business website for lead leaks. It runs in your browser and sends nothing anywhere.
 
 ## Work with us
 
